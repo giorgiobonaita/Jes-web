@@ -1,0 +1,3 @@
+Port all app components 1:1 to web: AdminPanel, Groups, Chat, Search, Notifications, CreatePost, CreateStory, AvatarImg, GroupDetail; fix ADV images
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
